@@ -1,0 +1,162 @@
+[
+    {
+        "id": "087acdbd852d2d6635498092",
+        "title": "Camisa",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "to do",
+        "price": 250,
+        "stock": 720
+      },
+      {
+        "id": "5ab2c202dff42e06b42ad3b1",
+        "title": "Pantalón",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "calzado",
+        "price": 480,
+        "stock": 200
+      },
+      {
+        "id": "25e1158f90d4f406336c9fc6",
+        "title": "Vestido",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 720,
+        "stock": 430
+      },
+      {
+        "id": "61fa0a6c7984e89e244f7b1e",
+        "title": "Falda",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 180,
+        "stock": 800
+      },
+      {
+        "id": "b7544d9e8bc2d17a671d19a2",
+        "title": "Sudadera",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 380,
+        "stock": 610
+      },
+      {
+        "id": "94c5ae54d022fbab55c80d69",
+        "title": "Zapatos",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "calzado",
+        "price": 690,
+        "stock": 290
+      },
+      {
+        "id": "fcebe4d20c7a3f8bba50da2c",
+        "title": "Bufanda",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 120,
+        "stock": 550
+      },
+      {
+        "id": "c3f85e97f7cc98d845d8df90",
+        "title": "Calcetines",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 80,
+        "stock": 920
+      },
+      {
+        "id": "fd2797a3b57a1444f2f0e979",
+        "title": "Gorra",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 150,
+        "stock": 780
+      },
+      {
+        "id": "5ddc2797e0506b1f3a2a92b7",
+        "title": "Blusa",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 420,
+        "stock": 350
+      },
+      {
+        "id": "65ac8f2097638b59157e1a2a",
+        "title": "Sombrero",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 90,
+        "stock": 820
+      },
+      {
+        "id": "09c86a1c6df5b77e9155f92a",
+        "title": "Pantalones cortos",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 180,
+        "stock": 500
+      },
+      {
+        "id": "63a8ec1f2da77f20065a6f6b",
+        "title": "Sandalias",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "calzado",
+        "price": 560,
+        "stock": 430
+      },
+      {
+        "id": "7ecdc82d0b47de04882daaa3",
+        "title": "Bufanda",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 150,
+        "stock": 870
+      },
+      {
+        "id": "4c967d081f432b3ef5b3e1d2",
+        "title": "Camiseta",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 280,
+        "stock": 720
+      },
+      {
+        "id": "fc9f6799b15b8a6bb67db9a1",
+        "title": "Zapatos deportivos",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "calzado",
+        "price": 670,
+        "stock": 280
+      },
+      {
+        "id": "2a166e7b38e1b49cbcb5fc74",
+        "title": "Pantalones cortos",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "calzado",
+        "price": 190,
+        "stock": 670
+      },
+      {
+        "id": "db3e7844e2c4a5c3d9f5a66d",
+        "title": "Camiseta Polo",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "to do",
+        "price": 350,
+        "stock": 560
+      },
+      {
+        "id": "ec1d83ae1a25c4f4d90a3bf2",
+        "title": "Gafas de Sol",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "accesorios",
+        "price": 80,
+        "stock": 720
+      },
+      {
+        "id": "ba8e9dbdb36a4f849bf9e2bb",
+        "title": "Chaquetón",
+        "photo": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+        "category": "prendas",
+        "price": 800,
+        "stock": 180
+      }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "desafio1-coder",
+  "version": "1.0.0",
+  "description": "- Crear usuarios y productos fácilmente de forma asincrona y archivados en una carpeta de formato JSON.\r - Uso de Fs y Crypyo\r - Todas las creaciones tienen un ID aleatorio.\r - Asignar condiciones estrictas para la creacion de usuarios y productos.\r - Logs para mantener a los usuarios informados sobre sus usuarios y tareas creadas.",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

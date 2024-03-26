@@ -1,0 +1,60 @@
+[
+  {
+    "id": "5ddc2797e0506b1f3a2a92b7",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "usuario1@example.com",
+    "password": "contraseña123",
+    "role": "usuario"
+  },
+  {
+    "id": "65ac8f2097638b59157e1a2a",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "usuario2@example.com",
+    "password": "contraseña456",
+    "role": "usuario"
+  },
+  {
+    "id": "09c86a1c6df5b77e9155f92a",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "usuario3@example.com",
+    "password": "contraseña789",
+    "role": "usuario"
+  },
+  {
+    "id": "63a8ec1f2da77f20065a6f6b",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "role": "administrador"
+  },
+  {
+    "id": "38d51932540eb455f8418e64",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "09c86a1c6df5b77e9155f92a",
+    "role": 0
+  },
+  {
+    "id": "36fb749abdf8fadc15dd0ae8",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "09c86a1c6df5b77e9155f92a",
+    "role": 0
+  },
+  {
+    "id": "dadc9c0676ab46c99bd7b80a",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "09c86a1c6df5b77e9155f92a",
+    "role": 0
+  },
+  {
+    "id": "89e411477385351020c00b74",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "to do",
+    "role": 0
+  },
+  {
+    "id": "215cc411be673b795cac7830",
+    "foto": "https://us.123rf.com/450wm/belopoppa/belopoppa1809/belopoppa180900002/109693900-imagen-de-marcador-de-posici%C3%B3n-de-perfil-silueta-gris-sin-foto-de-una-persona-en-el-avatar-la.jpg",
+    "email": "09c86a1c6df5b77e9155f92a",
+    "role": 0
+  }
+]
